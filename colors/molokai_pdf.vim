@@ -1,9 +1,11 @@
 " Vim color file
 "
-" Author: Tomas Restrepo <tomas@winterdom.com>
+" Author: Peter Fern <github@0xc0dedbad.com>
 "
-" Note: Based on the monokai theme for textmate
-" by Wimer Hazenberg and its darker variant 
+" Note: Based on the Molokai theme for Vim
+" by Tomas Restrepo, which is in turn based
+" on the monokai theme for textmate by 
+" Wimer Hazenberg and its darker variant 
 " by Hamish Stuart Macpherson
 "
 
