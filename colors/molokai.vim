@@ -35,7 +35,7 @@ hi Conditional     guifg=#FF005F
 hi Constant        guifg=#AF5FAF
 hi Cursor          guifg=#000000 guibg=#F8F8F0
 hi Debug           guifg=#BCA3A3               gui=bold
-hi Define          guifg=#D7005F
+hi Define          guifg=#FF00AF
 hi Delimiter       guifg=#8F8F8F
 hi DiffAdd                       guibg=#13354A
 hi DiffChange      guifg=#89807D guibg=#4C4745
@@ -54,7 +54,7 @@ hi Identifier      guifg=#FD971F
 hi Ignore          guifg=#808080 guibg=bg
 hi IncSearch       guifg=#C4BE89 guibg=#000000
 
-hi Keyword         guifg=#D7005F
+hi Keyword         guifg=#FF00AF
 hi Label           guifg=#D7D787               gui=none
 hi Macro           guifg=#C4BE89               gui=italic
 hi SpecialKey      guifg=#66D9EF               gui=italic
@@ -128,7 +128,7 @@ if &t_Co > 255
    hi Constant        ctermfg=133
    hi Cursor          ctermfg=16  ctermbg=253
    hi Debug           ctermfg=225               cterm=bold
-   hi Define          ctermfg=161
+   hi Define          ctermfg=199
    hi Delimiter       ctermfg=241
 
    hi DiffAdd                     ctermbg=24
@@ -148,7 +148,7 @@ if &t_Co > 255
    hi Ignore          ctermfg=244 ctermbg=232
    hi IncSearch       ctermfg=193 ctermbg=16
 
-   hi Keyword         ctermfg=161
+   hi Keyword         ctermfg=199
    hi Label           ctermfg=229               cterm=none
    hi Macro           ctermfg=193
    hi SpecialKey      ctermfg=81
